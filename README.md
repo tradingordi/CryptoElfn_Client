@@ -1,2 +1,2 @@
 # CryptoElfn_Client
-小精灵链游
+小精灵链游.
