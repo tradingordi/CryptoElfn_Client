@@ -1,0 +1,138 @@
+{
+  "version": "1.0.0",
+  "map": {
+    "E:\\game\\newGames\\assets\\pictures.meta": {
+      "time": 1712668138606.0393
+    },
+    "E:\\game\\newGames\\assets\\pictures": {
+      "time": 1712670823082.6758,
+      "uuid": "c423c283-8891-4e3f-8328-fcd89f6cd0c1"
+    },
+    "E:\\game\\newGames\\assets\\scene.meta": {
+      "time": 1712668144214.3352
+    },
+    "E:\\game\\newGames\\assets\\scene": {
+      "time": 1712669773340.2927,
+      "uuid": "118d0128-33b2-4d58-8dea-0e30909b4d21"
+    },
+    "E:\\game\\newGames\\assets\\script.meta": {
+      "time": 1712668151164.4275
+    },
+    "E:\\game\\newGames\\assets\\script": {
+      "time": 1712668151156.4348,
+      "uuid": "a762b38c-3c72-4fa1-872f-eada5c84db09"
+    },
+    "E:\\game\\newGames\\assets\\animation.meta": {
+      "time": 1712668205630.8362
+    },
+    "E:\\game\\newGames\\assets\\animation": {
+      "time": 1712668205619.84,
+      "uuid": "ec20f3e6-89ad-4ce9-a833-9c1455e80584"
+    },
+    "E:\\game\\newGames\\assets\\pictures\\bg.png.meta": {
+      "time": 1712668328922.4163
+    },
+    "E:\\game\\newGames\\assets\\pictures\\coin.png.meta": {
+      "time": 1712668328869.414
+    },
+    "E:\\game\\newGames\\assets\\pictures\\yao_chiyanshou.png.meta": {
+      "time": 1712668328881.4163
+    },
+    "E:\\game\\newGames\\assets\\pictures\\yao_jiuweihu.png.meta": {
+      "time": 1712668328890.4402
+    },
+    "E:\\game\\newGames\\assets\\pictures\\coin.png": {
+      "time": 1711331510000,
+      "uuid": "269e1231-e25d-4c97-97fe-2b0e3a0a9d04"
+    },
+    "E:\\game\\newGames\\assets\\pictures\\yao_chiyanshou.png": {
+      "time": 1650916912000,
+      "uuid": "8fb33bf2-6b70-41d3-a6d0-ac3b45e6d79b"
+    },
+    "E:\\game\\newGames\\assets\\pictures\\yao_jiuweihu.png": {
+      "time": 1650916912000,
+      "uuid": "3a081567-10ab-4bf2-9884-712cb5609b82"
+    },
+    "E:\\game\\newGames\\assets\\pictures\\bg.png": {
+      "time": 1711331510000,
+      "uuid": "133577b8-fe19-43d5-9394-77b3abcec72f"
+    },
+    "E:\\game\\newGames\\assets\\scene\\LoadingScene.scene.meta": {
+      "time": 1712668675050.7263
+    },
+    "E:\\game\\newGames\\assets\\scene\\LoadingScene.scene": {
+      "time": 1712669753115.5505,
+      "uuid": "8a150a1a-141a-4982-8a34-3d6746604dd2"
+    },
+    "E:\\game\\newGames\\assets\\scene\\HallScene.scene.meta": {
+      "time": 1712669760007.3022
+    },
+    "E:\\game\\newGames\\assets\\scene\\HallScene.scene": {
+      "time": 1712671889368.9448,
+      "uuid": "ce8ea68e-f306-4ceb-9e64-01e14f1e3ebe"
+    },
+    "E:\\game\\newGames\\assets\\pictures\\hd.png.meta": {
+      "time": 1712669815904.8948
+    },
+    "E:\\game\\newGames\\assets\\pictures\\headimg.png.meta": {
+      "time": 1712669815911.9177
+    },
+    "E:\\game\\newGames\\assets\\pictures\\money.png.meta": {
+      "time": 1712669815907.903
+    },
+    "E:\\game\\newGames\\assets\\pictures\\hd.png": {
+      "time": 1711331510000,
+      "uuid": "e2458a43-4b74-4179-aec9-ab232b1634cb"
+    },
+    "E:\\game\\newGames\\assets\\pictures\\money.png": {
+      "time": 1711331510000,
+      "uuid": "91ea667b-9449-4812-8466-9dbd23fc188a"
+    },
+    "E:\\game\\newGames\\assets\\pictures\\headimg.png": {
+      "time": 1711331510000,
+      "uuid": "072a2b70-1b51-4e6f-91ad-45e0fabc7623"
+    },
+    "E:\\game\\newGames\\assets\\pictures\\d1.png.meta": {
+      "time": 1712670586939.8286
+    },
+    "E:\\game\\newGames\\assets\\pictures\\d1.png": {
+      "time": 1711331510000,
+      "uuid": "51c4b6bf-a717-43ad-aa2a-6afc52fca034"
+    },
+    "E:\\game\\newGames\\assets\\pictures\\d11.png.meta": {
+      "time": 1712670803363.156
+    },
+    "E:\\game\\newGames\\assets\\pictures\\d11.png": {
+      "time": 1711331510000,
+      "uuid": "3152068e-207b-46fd-bdc3-b772c4a3b18f"
+    },
+    "E:\\game\\newGames\\assets\\pictures\\d22.png.meta": {
+      "time": 1712670823210.6726
+    },
+    "E:\\game\\newGames\\assets\\pictures\\d33.png.meta": {
+      "time": 1712670823165.6687
+    },
+    "E:\\game\\newGames\\assets\\pictures\\pang.png.meta": {
+      "time": 1712670823150.6746
+    },
+    "E:\\game\\newGames\\assets\\pictures\\pang.png": {
+      "time": 1711330958000,
+      "uuid": "cb5d5826-c0d1-44ee-8daf-1a7f8f6f297f"
+    },
+    "E:\\game\\newGames\\assets\\pictures\\d33.png": {
+      "time": 1711331510000,
+      "uuid": "13013a4a-2349-424b-89d9-d1d19ea9f305"
+    },
+    "E:\\game\\newGames\\assets\\pictures\\d22.png": {
+      "time": 1711331510000,
+      "uuid": "5f60cdf8-0a9c-4acd-80a7-c2ef35fa1c98"
+    }
+  },
+  "missing": {
+    "ce8ea68e-f306-4ceb-9e64-01e14f1e3ebe": {
+      "path": "E:\\game\\newGames\\assets\\scene\\LoadingScene-001.scene",
+      "time": 1712669760031.2903,
+      "removeTime": 1712669773343
+    }
+  }
+}
