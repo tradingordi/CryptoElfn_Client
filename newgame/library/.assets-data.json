@@ -110,7 +110,9 @@
         "8a150a1a-141a-4982-8a34-3d6746604dd2",
         "133577b8-fe19-43d5-9394-77b3abcec72f@f9941"
       ],
-      "dependScripts": []
+      "dependScripts": [
+        "b7e6b8ba-e81a-443c-a727-cd4c9656d35a"
+      ]
     }
   },
   "ce8ea68e-f306-4ceb-9e64-01e14f1e3ebe": {
@@ -309,5 +311,82 @@
         "5f60cdf8-0a9c-4acd-80a7-c2ef35fa1c98@6c48a"
       ]
     }
+  },
+  "18bf9788-569c-4b70-890b-9e56a7629660": {
+    "url": "db://assets/scene/RoomScene.scene",
+    "value": {
+      "depends": [
+        "18bf9788-569c-4b70-890b-9e56a7629660",
+        "133577b8-fe19-43d5-9394-77b3abcec72f@f9941",
+        "57520716-48c8-4a19-8acf-41c9f8777fb0@f9941",
+        "5f60cdf8-0a9c-4acd-80a7-c2ef35fa1c98@f9941",
+        "7d8f9b89-4fd1-4c9f-a3ab-38ec7cded7ca@f9941"
+      ],
+      "dependScripts": [
+        "31f75a48-ccfc-4357-8626-e9e67338fcb7"
+      ]
+    }
+  },
+  "778d6207-5263-4b02-9b60-4d1387c13d7a": {
+    "url": "db://assets/scene/GameScene.scene",
+    "value": {
+      "depends": [
+        "778d6207-5263-4b02-9b60-4d1387c13d7a",
+        "133577b8-fe19-43d5-9394-77b3abcec72f@f9941",
+        "57520716-48c8-4a19-8acf-41c9f8777fb0@f9941",
+        "5f60cdf8-0a9c-4acd-80a7-c2ef35fa1c98@f9941",
+        "8fb33bf2-6b70-41d3-a6d0-ac3b45e6d79b@f9941",
+        "13013a4a-2349-424b-89d9-d1d19ea9f305@f9941",
+        "20835ba4-6145-4fbc-a58a-051ce700aa3e@f9941",
+        "544e49d6-3f05-4fa8-9a9e-091f98fc2ce8@f9941",
+        "951249e0-9f16-456d-8b85-a6ca954da16b@f9941"
+      ],
+      "dependScripts": [
+        "2d1c8d62-45cd-4927-940f-f342ce1732e3"
+      ]
+    }
+  },
+  "6254b7ad-78f2-4a98-8195-e35447f42e75": {
+    "url": "db://assets/scene/ItemsScene.scene",
+    "value": {
+      "depends": [
+        "6254b7ad-78f2-4a98-8195-e35447f42e75",
+        "133577b8-fe19-43d5-9394-77b3abcec72f@f9941",
+        "57520716-48c8-4a19-8acf-41c9f8777fb0@f9941",
+        "5f60cdf8-0a9c-4acd-80a7-c2ef35fa1c98@f9941",
+        "afc47931-f066-46b0-90be-9fe61f213428@f9941",
+        "ffb88a8f-af62-48f4-8f1d-3cb606443a43@f9941",
+        "8fb33bf2-6b70-41d3-a6d0-ac3b45e6d79b@f9941",
+        "13013a4a-2349-424b-89d9-d1d19ea9f305@f9941",
+        "b730527c-3233-41c2-aaf7-7cdab58f9749@f9941",
+        "45828f25-b50d-4c52-a591-e19491a62b8c@f9941",
+        "20835ba4-6145-4fbc-a58a-051ce700aa3e@f9941",
+        "544e49d6-3f05-4fa8-9a9e-091f98fc2ce8@f9941",
+        "951249e0-9f16-456d-8b85-a6ca954da16b@f9941"
+      ],
+      "dependScripts": [
+        "6c3760f0-f865-4260-83e5-f6a3adf58c6e"
+      ]
+    }
+  },
+  "b7e6b8ba-e81a-443c-a727-cd4c9656d35a": {
+    "url": "db://assets/script/LoadingScene.ts",
+    "value": {}
+  },
+  "a9043ed9-00d9-4cd3-a348-1bdaa7ec5934": {
+    "url": "db://assets/script/Hallscene.ts",
+    "value": {}
+  },
+  "31f75a48-ccfc-4357-8626-e9e67338fcb7": {
+    "url": "db://assets/script/Roomscene.ts",
+    "value": {}
+  },
+  "2d1c8d62-45cd-4927-940f-f342ce1732e3": {
+    "url": "db://assets/script/GameScene.ts",
+    "value": {}
+  },
+  "6c3760f0-f865-4260-83e5-f6a3adf58c6e": {
+    "url": "db://assets/script/ItemsScene.ts",
+    "value": {}
   }
 }
