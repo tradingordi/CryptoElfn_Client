@@ -1,0 +1,22 @@
+{
+  "__version__": "1.0.6",
+  "layer": [
+    {
+      "name": "wall",
+      "value": 1
+    },
+    {
+      "name": "default",
+      "value": 2
+    }
+  ],
+  "general": {
+    "designResolution": {
+      "fitHeight": true,
+      "width": 2208,
+      "height": 1242,
+      "fitWidth": false
+    }
+  },
+  "custom_joint_texture_layouts": []
+}
