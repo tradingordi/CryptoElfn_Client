@@ -1,0 +1,20 @@
+{
+    "name": "wallet",
+    "title": "i18n:wallet.title",
+    "package_version": 2,
+    "version": "1.0.0",
+    "author": "xf",
+    "description": "i18n:wallet.description",
+    "contributions": {
+        "builder": "./dist/builder.js"
+    },
+    "scripts": {
+        "build": "tsc"
+    },
+    "dependencies": {
+        "@types/fs-extra": "^5.0.4",
+        "@types/node": "^14.5.2",
+        "fs-extra": "^10.0.0"
+    },
+    "creator": ">=3.8.1"
+}

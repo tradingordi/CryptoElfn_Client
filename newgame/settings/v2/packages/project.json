@@ -13,8 +13,8 @@
   "general": {
     "designResolution": {
       "fitHeight": true,
-      "width": 2208,
-      "height": 1242,
+      "width": 1920,
+      "height": 1080,
       "fitWidth": false
     }
   },

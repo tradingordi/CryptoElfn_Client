@@ -3,5 +3,11 @@
   "uuid": "1bf5d8ea-120d-496b-8eed-c4daf5c0793c",
   "creator": {
     "version": "3.8.1"
+  },
+  "dependencies": {
+    "@portkey/did-ui-react": "^2.5.0-alpha.18",
+    "@portkey/services": "^2.5.0-alpha.20",
+    "@portkey/utils": "^2.5.0-alpha.20",
+    "protobufjs": "^7.2.6"
   }
 }

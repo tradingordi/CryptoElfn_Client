@@ -1,20 +1,37 @@
 {
   "__version__": "3.0.7",
   "game": {
-    "name": "未知游戏",
-    "app_id": "UNKNOW",
-    "c_id": "0"
+    "app_id": "629143160",
+    "c_id": "0",
+    "name": "卡片对战"
   },
   "appConfigMaps": [
     {
       "app_id": "UNKNOW",
       "config_id": "0d8723"
+    },
+    {
+      "app_id": "629143160",
+      "config_id": "97b869"
     }
   ],
   "configs": [
     {
       "app_id": "UNKNOW",
       "config_id": "0d8723",
+      "config_name": "Default",
+      "config_remarks": "",
+      "services": [
+        {
+          "service_id": "550",
+          "enable": false,
+          "param": {}
+        }
+      ]
+    },
+    {
+      "app_id": "629143160",
+      "config_id": "97b869",
       "config_name": "Default",
       "config_remarks": "",
       "services": []

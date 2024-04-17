@@ -108,7 +108,15 @@
     "value": {
       "depends": [
         "8a150a1a-141a-4982-8a34-3d6746604dd2",
-        "133577b8-fe19-43d5-9394-77b3abcec72f@f9941"
+        "133577b8-fe19-43d5-9394-77b3abcec72f@f9941",
+        "24a704da-2867-446d-8d1a-5e920c75e09d@f9941",
+        "9fd900dd-221b-4f89-8f2c-fba34243c835@f9941",
+        "20835ba4-6145-4fbc-a58a-051ce700aa3e@f9941",
+        "544e49d6-3f05-4fa8-9a9e-091f98fc2ce8@f9941",
+        "951249e0-9f16-456d-8b85-a6ca954da16b@f9941",
+        "57520716-48c8-4a19-8acf-41c9f8777fb0@f9941",
+        "3152068e-207b-46fd-bdc3-b772c4a3b18f@f9941",
+        "91ea667b-9449-4812-8466-9dbd23fc188a@f9941"
       ],
       "dependScripts": [
         "b7e6b8ba-e81a-443c-a727-cd4c9656d35a"
@@ -356,8 +364,7 @@
         "5f60cdf8-0a9c-4acd-80a7-c2ef35fa1c98@f9941",
         "afc47931-f066-46b0-90be-9fe61f213428@f9941",
         "ffb88a8f-af62-48f4-8f1d-3cb606443a43@f9941",
-        "8fb33bf2-6b70-41d3-a6d0-ac3b45e6d79b@f9941",
-        "13013a4a-2349-424b-89d9-d1d19ea9f305@f9941",
+        "bb4cf368-dda7-4f30-a5dd-e20e2aaa5a80",
         "b730527c-3233-41c2-aaf7-7cdab58f9749@f9941",
         "45828f25-b50d-4c52-a591-e19491a62b8c@f9941",
         "20835ba4-6145-4fbc-a58a-051ce700aa3e@f9941",
@@ -365,28 +372,87 @@
         "951249e0-9f16-456d-8b85-a6ca954da16b@f9941"
       ],
       "dependScripts": [
+        "CC3eba29-7abb-723a-f7ab-ae275e2277e8",
         "6c3760f0-f865-4260-83e5-f6a3adf58c6e"
       ]
     }
   },
   "b7e6b8ba-e81a-443c-a727-cd4c9656d35a": {
-    "url": "db://assets/script/LoadingScene.ts",
+    "url": "db://assets/script/scene/LoadingScene.ts",
     "value": {}
   },
   "a9043ed9-00d9-4cd3-a348-1bdaa7ec5934": {
-    "url": "db://assets/script/Hallscene.ts",
+    "url": "db://assets/script/scene/Hallscene.ts",
     "value": {}
   },
   "31f75a48-ccfc-4357-8626-e9e67338fcb7": {
-    "url": "db://assets/script/Roomscene.ts",
+    "url": "db://assets/script/scene/Roomscene.ts",
     "value": {}
   },
   "2d1c8d62-45cd-4927-940f-f342ce1732e3": {
-    "url": "db://assets/script/GameScene.ts",
+    "url": "db://assets/script/scene/GameScene.ts",
     "value": {}
   },
   "6c3760f0-f865-4260-83e5-f6a3adf58c6e": {
-    "url": "db://assets/script/ItemsScene.ts",
+    "url": "db://assets/script/scene/ItemsScene.ts",
+    "value": {}
+  },
+  "bb4cf368-dda7-4f30-a5dd-e20e2aaa5a80": {
+    "url": "db://assets/prefab/firstCard.prefab",
+    "value": {
+      "depends": [
+        "8fb33bf2-6b70-41d3-a6d0-ac3b45e6d79b@f9941",
+        "13013a4a-2349-424b-89d9-d1d19ea9f305@f9941"
+      ],
+      "dependScripts": []
+    }
+  },
+  "8f6e23a2-f490-449c-8bfe-7c138ae1561e": {
+    "url": "db://assets/prefab",
+    "value": {}
+  },
+  "97095f78-0b80-4992-ac09-044836cd2b0d": {
+    "url": "db://assets/resources",
+    "value": {}
+  },
+  "5e9b12ac-1fa6-4e15-831f-5c56af4ded56": {
+    "url": "db://assets/resources/CardGame",
+    "value": {}
+  },
+  "9952b9e8-3be6-4310-a736-43182a197384": {
+    "url": "db://assets/resources/CardGame/music",
+    "value": {}
+  },
+  "97e27bc1-0e3a-402d-ae88-3408c64bfd63": {
+    "url": "db://assets/script/config",
+    "value": {}
+  },
+  "3af9dfff-582a-41f2-af22-adb746d9bb8e": {
+    "url": "db://assets/script/scene",
+    "value": {}
+  },
+  "8496157d-31fa-4946-b1d8-606fb28dca81": {
+    "url": "db://assets/script/config/MusicConfig.ts",
+    "value": {}
+  },
+  "dcebddc1-d50f-44b0-971b-7728b33f1bc8": {
+    "url": "db://assets/script/game",
+    "value": {}
+  },
+  "6daeeaca-acbf-4eb5-a655-0b6d30784bca": {
+    "url": "db://assets/script/game/UserInfo.ts",
+    "value": {}
+  },
+  "3358d5cf-0b21-4ff8-84b4-d1acb4816237": {
+    "url": "db://assets/script/game/GameLogin.ts",
+    "value": {}
+  },
+  "6c2e1664-99a7-4dbd-a388-c78a57983431": {
+    "url": "db://assets/script/Utils",
+    "value": {}
+  },
+  "d5f96d33-4644-416c-b39e-94c74602d6e5": {
+    "url": "db://assets/script/Utils/SceneManager.ts",
     "value": {}
   }
 }

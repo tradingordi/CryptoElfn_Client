@@ -140,7 +140,7 @@
       "uuid": "118d0128-33b2-4d58-8dea-0e30909b4d21"
     },
     "E:\\game\\CryptoElfn_Client\\newgame\\assets\\script": {
-      "time": 1712739075263.225,
+      "time": 1712811978491.395,
       "uuid": "a762b38c-3c72-4fa1-872f-eada5c84db09"
     },
     "E:\\game\\CryptoElfn_Client\\newgame\\assets\\animation.meta": {
@@ -204,11 +204,11 @@
       "uuid": "3a081567-10ab-4bf2-9884-712cb5609b82"
     },
     "E:\\game\\CryptoElfn_Client\\newgame\\assets\\scene\\HallScene.scene": {
-      "time": 1712671889368.9448,
+      "time": 1712908453698.8118,
       "uuid": "ce8ea68e-f306-4ceb-9e64-01e14f1e3ebe"
     },
     "E:\\game\\CryptoElfn_Client\\newgame\\assets\\scene\\LoadingScene.scene": {
-      "time": 1712742391800.6494,
+      "time": 1712997121196.8596,
       "uuid": "8a150a1a-141a-4982-8a34-3d6746604dd2"
     },
     "E:\\game\\CryptoElfn_Client\\newgame\\assets\\pictures\\coin.png.meta": {
@@ -257,57 +257,148 @@
       "time": 1712735251723.1091
     },
     "E:\\game\\CryptoElfn_Client\\newgame\\assets\\scene\\RoomScene.scene": {
-      "time": 1712738996472.4023,
+      "time": 1712908478894.1643,
       "uuid": "18bf9788-569c-4b70-890b-9e56a7629660"
     },
     "E:\\game\\CryptoElfn_Client\\newgame\\assets\\scene\\GameScene.scene.meta": {
       "time": 1712735740794.4219
     },
     "E:\\game\\CryptoElfn_Client\\newgame\\assets\\scene\\GameScene.scene": {
-      "time": 1712742434491.3591,
+      "time": 1712908440677.11,
       "uuid": "778d6207-5263-4b02-9b60-4d1387c13d7a"
-    },
-    "E:\\game\\CryptoElfn_Client\\newgame\\assets\\script\\LoadingScene.ts.meta": {
-      "time": 1712738865534.8672
-    },
-    "E:\\game\\CryptoElfn_Client\\newgame\\assets\\script\\LoadingScene.ts": {
-      "time": 1712738865525.868,
-      "uuid": "b7e6b8ba-e81a-443c-a727-cd4c9656d35a"
-    },
-    "E:\\game\\CryptoElfn_Client\\newgame\\assets\\script\\Hallscene.ts.meta": {
-      "time": 1712738930436.5254
-    },
-    "E:\\game\\CryptoElfn_Client\\newgame\\assets\\script\\Hallscene.ts": {
-      "time": 1712738930428.531,
-      "uuid": "a9043ed9-00d9-4cd3-a348-1bdaa7ec5934"
-    },
-    "E:\\game\\CryptoElfn_Client\\newgame\\assets\\script\\Roomscene.ts.meta": {
-      "time": 1712738960417.1917
-    },
-    "E:\\game\\CryptoElfn_Client\\newgame\\assets\\script\\Roomscene.ts": {
-      "time": 1712738960407.1836,
-      "uuid": "31f75a48-ccfc-4357-8626-e9e67338fcb7"
-    },
-    "E:\\game\\CryptoElfn_Client\\newgame\\assets\\script\\GameScene.ts.meta": {
-      "time": 1712739031678.947
-    },
-    "E:\\game\\CryptoElfn_Client\\newgame\\assets\\script\\GameScene.ts": {
-      "time": 1712739031668.9465,
-      "uuid": "2d1c8d62-45cd-4927-940f-f342ce1732e3"
-    },
-    "E:\\game\\CryptoElfn_Client\\newgame\\assets\\script\\ItemsScene.ts.meta": {
-      "time": 1712739075269.2156
-    },
-    "E:\\game\\CryptoElfn_Client\\newgame\\assets\\script\\ItemsScene.ts": {
-      "time": 1712739075261.2134,
-      "uuid": "6c3760f0-f865-4260-83e5-f6a3adf58c6e"
     },
     "E:\\game\\CryptoElfn_Client\\newgame\\assets\\scene\\ItemsScene.scene.meta": {
       "time": 1712736780444.03
     },
     "E:\\game\\CryptoElfn_Client\\newgame\\assets\\scene\\ItemsScene.scene": {
-      "time": 1712742421788.6777,
+      "time": 1712908462119.4453,
       "uuid": "6254b7ad-78f2-4a98-8195-e35447f42e75"
+    },
+    "E:\\game\\CryptoElfn_Client\\newgame\\assets\\prefab.meta": {
+      "time": 1712810985126.391
+    },
+    "E:\\game\\CryptoElfn_Client\\newgame\\assets\\prefab": {
+      "time": 1712810988029.3455,
+      "uuid": "8f6e23a2-f490-449c-8bfe-7c138ae1561e"
+    },
+    "E:\\game\\CryptoElfn_Client\\newgame\\assets\\prefab\\firstCard.prefab.meta": {
+      "time": 1712810973162.7725
+    },
+    "E:\\game\\CryptoElfn_Client\\newgame\\assets\\prefab\\firstCard.prefab": {
+      "time": 1712810973159.7708,
+      "uuid": "bb4cf368-dda7-4f30-a5dd-e20e2aaa5a80"
+    },
+    "E:\\game\\CryptoElfn_Client\\newgame\\assets\\resources.meta": {
+      "time": 1712811592579.98
+    },
+    "E:\\game\\CryptoElfn_Client\\newgame\\assets\\resources": {
+      "time": 1712811624285.0017,
+      "uuid": "97095f78-0b80-4992-ac09-044836cd2b0d"
+    },
+    "E:\\game\\CryptoElfn_Client\\newgame\\assets\\resources\\CardGame.meta": {
+      "time": 1712811612280.7998
+    },
+    "E:\\game\\CryptoElfn_Client\\newgame\\assets\\resources\\CardGame": {
+      "time": 1712811632049.5352,
+      "uuid": "5e9b12ac-1fa6-4e15-831f-5c56af4ded56"
+    },
+    "E:\\game\\CryptoElfn_Client\\newgame\\assets\\resources\\CardGame\\music.meta": {
+      "time": 1712811632055.6482
+    },
+    "E:\\game\\CryptoElfn_Client\\newgame\\assets\\resources\\CardGame\\music": {
+      "time": 1712811632047.5327,
+      "uuid": "9952b9e8-3be6-4310-a736-43182a197384"
+    },
+    "E:\\game\\CryptoElfn_Client\\newgame\\assets\\script\\config.meta": {
+      "time": 1712811727144.7844
+    },
+    "E:\\game\\CryptoElfn_Client\\newgame\\assets\\script\\config": {
+      "time": 1712811764638.1284,
+      "uuid": "97e27bc1-0e3a-402d-ae88-3408c64bfd63"
+    },
+    "E:\\game\\CryptoElfn_Client\\newgame\\assets\\script\\scene.meta": {
+      "time": 1712811733066.8362
+    },
+    "E:\\game\\CryptoElfn_Client\\newgame\\assets\\script\\scene": {
+      "time": 1712811737548.598,
+      "uuid": "3af9dfff-582a-41f2-af22-adb746d9bb8e"
+    },
+    "E:\\game\\CryptoElfn_Client\\newgame\\assets\\script\\scene\\GameScene.ts.meta": {
+      "time": 1712739031678.947
+    },
+    "E:\\game\\CryptoElfn_Client\\newgame\\assets\\script\\scene\\GameScene.ts": {
+      "time": 1712739031668.9465,
+      "uuid": "2d1c8d62-45cd-4927-940f-f342ce1732e3"
+    },
+    "E:\\game\\CryptoElfn_Client\\newgame\\assets\\script\\scene\\LoadingScene.ts.meta": {
+      "time": 1712738865534.8672
+    },
+    "E:\\game\\CryptoElfn_Client\\newgame\\assets\\script\\scene\\LoadingScene.ts": {
+      "time": 1713353796216.9436,
+      "uuid": "b7e6b8ba-e81a-443c-a727-cd4c9656d35a"
+    },
+    "E:\\game\\CryptoElfn_Client\\newgame\\assets\\script\\scene\\Hallscene.ts.meta": {
+      "time": 1712738930436.5254
+    },
+    "E:\\game\\CryptoElfn_Client\\newgame\\assets\\script\\scene\\Hallscene.ts": {
+      "time": 1712738930428.531,
+      "uuid": "a9043ed9-00d9-4cd3-a348-1bdaa7ec5934"
+    },
+    "E:\\game\\CryptoElfn_Client\\newgame\\assets\\script\\scene\\ItemsScene.ts.meta": {
+      "time": 1712739075269.2156
+    },
+    "E:\\game\\CryptoElfn_Client\\newgame\\assets\\script\\scene\\ItemsScene.ts": {
+      "time": 1712739075261.2134,
+      "uuid": "6c3760f0-f865-4260-83e5-f6a3adf58c6e"
+    },
+    "E:\\game\\CryptoElfn_Client\\newgame\\assets\\script\\scene\\Roomscene.ts.meta": {
+      "time": 1712738960417.1917
+    },
+    "E:\\game\\CryptoElfn_Client\\newgame\\assets\\script\\scene\\Roomscene.ts": {
+      "time": 1712738960407.1836,
+      "uuid": "31f75a48-ccfc-4357-8626-e9e67338fcb7"
+    },
+    "E:\\game\\CryptoElfn_Client\\newgame\\assets\\script\\config\\MusicConfig.ts.meta": {
+      "time": 1712811764646.1248
+    },
+    "E:\\game\\CryptoElfn_Client\\newgame\\assets\\script\\config\\MusicConfig.ts": {
+      "time": 1712811764636.1284,
+      "uuid": "8496157d-31fa-4946-b1d8-606fb28dca81"
+    },
+    "E:\\game\\CryptoElfn_Client\\newgame\\assets\\script\\game.meta": {
+      "time": 1712811849705.039
+    },
+    "E:\\game\\CryptoElfn_Client\\newgame\\assets\\script\\game": {
+      "time": 1712811881023.6223,
+      "uuid": "dcebddc1-d50f-44b0-971b-7728b33f1bc8"
+    },
+    "E:\\game\\CryptoElfn_Client\\newgame\\assets\\script\\game\\UserInfo.ts.meta": {
+      "time": 1712811861251.6956
+    },
+    "E:\\game\\CryptoElfn_Client\\newgame\\assets\\script\\game\\UserInfo.ts": {
+      "time": 1712811861241.716,
+      "uuid": "6daeeaca-acbf-4eb5-a655-0b6d30784bca"
+    },
+    "E:\\game\\CryptoElfn_Client\\newgame\\assets\\script\\game\\GameLogin.ts.meta": {
+      "time": 1712811874505.833
+    },
+    "E:\\game\\CryptoElfn_Client\\newgame\\assets\\script\\game\\GameLogin.ts": {
+      "time": 1712811874491.833,
+      "uuid": "3358d5cf-0b21-4ff8-84b4-d1acb4816237"
+    },
+    "E:\\game\\CryptoElfn_Client\\newgame\\assets\\script\\Utils.meta": {
+      "time": 1712811978503.3923
+    },
+    "E:\\game\\CryptoElfn_Client\\newgame\\assets\\script\\Utils": {
+      "time": 1712812016924.1377,
+      "uuid": "6c2e1664-99a7-4dbd-a388-c78a57983431"
+    },
+    "E:\\game\\CryptoElfn_Client\\newgame\\assets\\script\\Utils\\SceneManager.ts.meta": {
+      "time": 1712812016932.1482
+    },
+    "E:\\game\\CryptoElfn_Client\\newgame\\assets\\script\\Utils\\SceneManager.ts": {
+      "time": 1713353874285.0488,
+      "uuid": "d5f96d33-4644-416c-b39e-94c74602d6e5"
     }
   },
   "missing": {
@@ -330,6 +421,46 @@
       "path": "E:\\game\\CryptoElfn_Client\\newgame\\assets\\scene\\itemsScene.scene",
       "time": 1712738768665.8394,
       "removeTime": 1712739082914
+    },
+    "bb4cf368-dda7-4f30-a5dd-e20e2aaa5a80": {
+      "path": "E:\\game\\CryptoElfn_Client\\newgame\\assets\\firstCard.prefab",
+      "time": 1712810973159.7708,
+      "removeTime": 1712810988031
+    },
+    "5e9b12ac-1fa6-4e15-831f-5c56af4ded56": {
+      "path": "E:\\game\\CryptoElfn_Client\\newgame\\assets\\resources\\cardGame",
+      "time": 1712811612267.813,
+      "removeTime": 1712811624281
+    },
+    "2d1c8d62-45cd-4927-940f-f342ce1732e3": {
+      "path": "E:\\game\\CryptoElfn_Client\\newgame\\assets\\script\\GameScene.ts",
+      "time": 1712739031668.9465,
+      "removeTime": 1712811737536
+    },
+    "b7e6b8ba-e81a-443c-a727-cd4c9656d35a": {
+      "path": "E:\\game\\CryptoElfn_Client\\newgame\\assets\\script\\LoadingScene.ts",
+      "time": 1712738865525.868,
+      "removeTime": 1712811737548
+    },
+    "a9043ed9-00d9-4cd3-a348-1bdaa7ec5934": {
+      "path": "E:\\game\\CryptoElfn_Client\\newgame\\assets\\script\\Hallscene.ts",
+      "time": 1712738930428.531,
+      "removeTime": 1712811737554
+    },
+    "6c3760f0-f865-4260-83e5-f6a3adf58c6e": {
+      "path": "E:\\game\\CryptoElfn_Client\\newgame\\assets\\script\\ItemsScene.ts",
+      "time": 1712739075261.2134,
+      "removeTime": 1712811737562
+    },
+    "31f75a48-ccfc-4357-8626-e9e67338fcb7": {
+      "path": "E:\\game\\CryptoElfn_Client\\newgame\\assets\\script\\Roomscene.ts",
+      "time": 1712738960407.1836,
+      "removeTime": 1712811737568
+    },
+    "3358d5cf-0b21-4ff8-84b4-d1acb4816237": {
+      "path": "E:\\game\\CryptoElfn_Client\\newgame\\assets\\script\\game\\GFameLogin.ts",
+      "time": 1712811874491.833,
+      "removeTime": 1712811881025
     }
   }
 }
